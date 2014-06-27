@@ -1,3 +1,5 @@
 *~
 *.swo
 *.swp
+/Java/WeeklyEx/nbproject/private/
+/Java/WeeklyEx/build/
